@@ -18,6 +18,9 @@ pip install flask
 **Структура без архива(файлами)
 - Папка NEUROCOIN -> Файл app.py + Файл neurocoin.db + Папка public
 - -> Папка public -> Файл index.html
+```bash
+python app.py
+```
 
 ---
 **Вход для учителя:**
